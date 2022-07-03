@@ -1,4 +1,4 @@
-# "React JS - JSON Server"
+# "React JS - Fetching API Data / CRUD Operations"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
@@ -6,7 +6,7 @@
 
 This repository shares the code applied during the Youtube tutorial. The tutorial is part of a [Learn React Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp) on my channel.  
 
-[YouTube Tutorial](https://youtu.be/_Fx6GDuIo1A) for this repository.
+[YouTube Tutorial](https://youtu.be/Pk5pMEtrS_U) for this repository.
 
 I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
 
