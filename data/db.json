@@ -2,7 +2,7 @@
   "items": [
     {
       "id": 1,
-      "checked": false,
+      "checked": true,
       "item": "Almonds, Unsalted, in the blue bag"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "id": 4,
-      "checked": false,
+      "checked": true,
       "item": "Cookies"
     },
     {

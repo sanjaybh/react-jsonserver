@@ -1,6 +1,6 @@
 import Header from './Header';
-import SearchItem from './SearchItem';
 import AddItem from './AddItem';
+import SearchItem from './SearchItem';
 import Content from './Content';
 import Footer from './Footer';
 import { useState, useEffect } from 'react';
