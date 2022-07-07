@@ -1,9 +1,11 @@
+import { useState, useEffect } from 'react';
+
 import Header from './Header';
 import AddItem from './AddItem';
 import SearchItem from './SearchItem';
 import Content from './Content';
 import Footer from './Footer';
-import { useState, useEffect } from 'react';
+
 import apiRequest from './apiRequest';
 
 function App() {
